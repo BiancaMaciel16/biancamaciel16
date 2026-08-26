@@ -29,16 +29,7 @@ Atualmente, atuo como **Analista de Sistemas Pleno**, com foco em agilidade, pro
 
 <p align="center">
 
-<img height="40" src="https://skillicons.dev/icons?i=azure">
-<img height="40" src="https://skillicons.dev/icons?i=jira">
-<img height="40" src="https://skillicons.dev/icons?i=git">
-<img height="40" src="https://skillicons.dev/icons?i=github">
-
-</p>
-
-<p align="center">
-
-`Protheus` · `ADVPL` · `Azure DevOps` · `Jira` · `Ellevo` · `Redmine` · `Scrum`
+`Analista Protheus` · `ADVPL` · `Azure DevOps` · `Jira` · `Ellevo` · `Redmine` · `Scrum` · `SQL`
 
 </p>
 
